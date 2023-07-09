@@ -1,3 +1,5 @@
+#everything not in here can be pushed up to github
+
 # Compiler files
 cache/
 out/
@@ -12,3 +14,8 @@ docs/
 
 # Dotenv file
 .env
+
+broadcast/
+
+lib/
+.gitignore
