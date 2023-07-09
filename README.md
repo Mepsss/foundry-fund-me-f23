@@ -8,6 +8,7 @@ Coded with a LOT of help of Patrick Collins.
   - [Requirements](#requirements)
   - [Deploy](#deploy)
   - [Testing](#testing)
+    - [uint and integration tests](#uint-and-integration-tests)
     - [Test coverage](#test-coverage)
 - [Thank you!](#thank-you)
 
@@ -32,7 +33,7 @@ forge scripta/DeployFundMe.s.sol
 
 ## Testing
 
-###uint and integration tests 
+### uint and integration tests 
 ```
 //only use this pattern to run single tests, the old one in the video using -m is deprecated
 forge test --match-test testFunctionName
