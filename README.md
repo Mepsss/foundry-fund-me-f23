@@ -1,15 +1,15 @@
-# About
+<h1 style="color: blue;">Foundry Fund Me</h1>
 
-This is a crowd sourcing app!  
+This is a crowd sourcing app, which is part of Patrick Collins FREE Foundry-f23 Solidity course!  
 Coded with a LOT of help of Patrick Collins.
 
-- [About](#about)
 - [Getting started](#getting-started)
   - [Requirements](#requirements)
   - [Deploy](#deploy)
   - [Testing](#testing)
     - [uint and integration tests](#uint-and-integration-tests)
     - [Test coverage](#test-coverage)
+- [Scripts](#scripts)
 - [Thank you!](#thank-you)
 
 
@@ -17,12 +17,12 @@ Coded with a LOT of help of Patrick Collins.
 
 ## Requirements
 - **git** - [Installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
+  - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
 - **foundry** - [Installation guide](https://medium.com/@regodefies/foundry-installation-on-windows-10-309407e39dee)
+  - You'll know you did it right if you can run `forge --version` and you see a response like `forge 0.2.0 (816e00b 2023-03-16T00:05:26.396218Z)`
 - **Patrick Collins amazing guide** - [guide](https://www.youtube.com/watch?v=6oFvqLfRnsU&list=PLGgX0nKkYFzLbHjhAgi1qZQ6VWqW1sG1_&index=1)
 [![Foundry Full Course part 2](https://img.youtube.com/vi/sas02qSFZ74/0.jpg)](https://www.youtube.com/watch?v=sas02qSFZ74)
 Click the image to watch the video.
-
-
 
 
 ## Deploy
@@ -59,7 +59,7 @@ forge coverage
 forge script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private key $SEPOLIA_PRIVATE_KEY --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
 ```
 
-#Scripts 
+# Scripts 
 
 After deploying you can run the scripts. 
 
