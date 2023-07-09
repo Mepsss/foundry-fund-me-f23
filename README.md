@@ -21,7 +21,7 @@ Coded with a LOT of help of Patrick Collins.
 - **foundry** - [Installation guide](https://medium.com/@regodefies/foundry-installation-on-windows-10-309407e39dee)
   - You'll know you did it right if you can run `forge --version` and you see a response like `forge 0.2.0 (816e00b 2023-03-16T00:05:26.396218Z)`
 - **Patrick Collins amazing guide** - [guide](https://www.youtube.com/watch?v=6oFvqLfRnsU&list=PLGgX0nKkYFzLbHjhAgi1qZQ6VWqW1sG1_&index=1)
-[![Foundry Full Course part 2](https://img.youtube.com/vi/sas02qSFZ74/0.jpg)](https://www.youtube.com/watch?v=sas02qSFZ74)
+[![Foundry Full Course part 2](https://img.youtube.com/vi/sas02qSFZ74/0.jpg)](https://www.youtube.com/watch?v=sas02qSFZ74)   
 Click the image to watch the video.
 
 
